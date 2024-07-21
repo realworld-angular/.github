@@ -1,5 +1,5 @@
 <p align="center">
-<img src="../assets/light-logo.svg" />
+<img src="../assets/cover.svg" />
 </p>
 
 # RealWorld Angular
