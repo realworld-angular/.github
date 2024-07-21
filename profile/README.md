@@ -1,4 +1,6 @@
+<p align="center">
 <img src="../assets/light-logo.svg" />
+</p>
 
 # RealWorld Angular
 
