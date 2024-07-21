@@ -1,2 +1,0 @@
-# .github
-RealWorld Angular profile
