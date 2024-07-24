@@ -16,6 +16,8 @@ Ever wondered how:
 - use web components?
 - how NgRx would be used compared to NGXS?
 
+Discover details about the project structure [here](https://realworldangular.org/news/2024-07-24-template-example-apps/).
+
 
 ## Key Features
 
